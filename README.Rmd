@@ -20,7 +20,7 @@ O objetivo do qcaws é o controle de qualidade de dados de estações automátic
 
 # Próximos passos
 
-- olhar funções no diretório 'work' para calcular radiação solar extraterrestre e a radiação potencial ou de céu-claro.
+- [ ] olhar funções no diretório 'work' para calcular radiação solar extraterrestre e a radiação potencial ou de céu-claro.
 
-- criar uma função para ler os dados do inmet.
+- [x] criar uma função para ler os dados do inmet.
 

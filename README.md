@@ -11,7 +11,7 @@ automáticas, em particular os dados de radiação solar global incidente.
 
 # Próximos passos
 
-- olhar funções no diretório ‘work’ para calcular radiação solar
+- [ ] olhar funções no diretório ‘work’ para calcular radiação solar
   extraterrestre e a radiação potencial ou de céu-claro.
 
-- criar uma função para ler os dados do inmet.
+- [x] criar uma função para ler os dados do inmet.
