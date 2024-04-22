@@ -9,3 +9,5 @@ refs
 *.html
 data
 inst
+*.Rout
+
